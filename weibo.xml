@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>weibo-rss</generator>
     <image>
-      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1785684055&amp;ssig=kEt2NQ%2BFlb</url>
+      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1785684148&amp;ssig=JRXS%2BTvMVR</url>
       <title>爱可可-爱生活的微博</title>
       <link>https://weibo.com/u/1402400261</link>
     </image>
@@ -41,7 +41,7 @@
       <title>【打破AI沙箱：local-mcp如何让ChatGPT接管你的本地终端】local-mcp是一个基于模型上下文协议（MCP）的开源工具，它通过建立本地服务器，允许AI直接读取文件、执行系统命令并处理图...</title>
       <link>https://weibo.com/5327517133312034/RbxQtdTBU</link>
       <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【打破AI沙箱：local-mcp如何让ChatGPT接管你的本地终端】local-mcp是一个基于模型上下文协议（MCP）的开源工具，它通过建立本地服务器，允许AI直接读取文件、执行系统命令并处理图像。开发者发现通过ChatGPT网页版调用此类插件时，目前似乎不会触发Codex等高级功能的额度限制。该项目在Linux和macOS上通过沙箱机制隔离执行环境，并提供手动审批流程，试图在自动化效率与系统安全之间寻找平衡。其底层价值在于将AI从云端容器中“释放”出来。相比官方插件只能在预装环境运行，它让AI能利用你本地完整的编译器和工具链。对开发者而言，这意味着可以用极低成本构建一套私有的自动化编程流水线，前提是你愿意承担权限开放的风险。 github.com/nakasyou/local-mcp</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 4</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 4</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 4</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5327517133312034/RbxQtdTBU" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5327517133312034/RbxQtdTBU</guid>
       <pubDate>Sun, 02 Aug 2026 17:22:08 +0800</pubDate>
@@ -72,182 +72,6 @@
 <div style="margin-top:8px;"><a href="https://weibo.com/5327511970907105/RbxI93NYJ" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5327511970907105/RbxI93NYJ</guid>
       <pubDate>Sun, 02 Aug 2026 17:01:37 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【AI幻觉退潮：当昂贵的Token撞上平庸的产出】近期开发者社区观察到企业对AI的热情正显著降温，核心痛点在于代码质量滑坡、系统不可靠、Token成本高昂以及智能体在非理想路径下的崩溃。市场开始意识到...</title>
-      <link>https://weibo.com/5327424665423394/RbvrkmKS6</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【AI幻觉退潮：当昂贵的Token撞上平庸的产出】近期开发者社区观察到企业对AI的热情正显著降温，核心痛点在于代码质量滑坡、系统不可靠、Token成本高昂以及智能体在非理想路径下的崩溃。市场开始意识到，AI能替代“一切”的叙事被严重高估，它目前更像是一个需要人类时刻盯着的助手，而非独立工作的员工 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ifpbdr8q8ij20og26s4kn.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ifpbdr8q8ij20og26s4kn.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 5</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 4</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327424665423394/RbvrkmKS6" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327424665423394/RbvrkmKS6</guid>
-      <pubDate>Sun, 02 Aug 2026 11:14:42 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【把AI逼成时薪300刀的资深工程师】这个在海外开发者圈疯传的Claude Code提示词，核心是将AI视为一个“按件计费且自负盈亏”的承包商。它强制AI在动笔前完成代码库调研、重述需求、列出可证伪的...</title>
-      <link>https://weibo.com/5327418112084372/RbvgL8KeU</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【把AI逼成时薪300刀的资深工程师】这个在海外开发者圈疯传的Claude Code提示词，核心是将AI视为一个“按件计费且自负盈亏”的承包商。它强制AI在动笔前完成代码库调研、重述需求、列出可证伪的假设（如数据边界、失效模式）并输出详细计划。只有在人类确认后，AI才被允许进入实现阶段。这套逻辑的精髓 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ifpamnllkqj20u01dg127.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ifpamnllkqj20u01dg127.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ifpamnm9hkj20og2rwneg.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ifpamnm9hkj20og2rwneg.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 35</span><span style="margin-right:15px;"> 评论 3</span><span> 赞 43</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327418112084372/RbvgL8KeU" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327418112084372/RbvgL8KeU</guid>
-      <pubDate>Sun, 02 Aug 2026 10:48:39 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【数学界的“不可约性”：OpenAI证明非索非克群存在】OpenAI最近放出一篇重磅论文，宣称构造出了数学史上第一个“非索非克群”（nonsofic group）。简单说，索非克群是指那些可以用有限置...</title>
-      <link>https://weibo.com/5327407898693355/Rbv0hAtxp</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【数学界的“不可约性”：OpenAI证明非索非克群存在】OpenAI最近放出一篇重磅论文，宣称构造出了数学史上第一个“非索非克群”（nonsofic group）。简单说，索非克群是指那些可以用有限置换来近似的无限群，过去几十年数学家一直想知道是不是所有群都具备这种“可近似性”。如果这个证明立得住，意味着 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ifp9gf6botj20u00tp7de.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ifp9gf6botj20u00tp7de.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 4</span><span style="margin-right:15px;"> 评论 2</span><span> 赞 19</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327407898693355/Rbv0hAtxp" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327407898693355/Rbv0hAtxp</guid>
-      <pubDate>Sun, 02 Aug 2026 10:08:04 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【DeepSeek-V4-Flash：把“去年最强”塞进你的卧室机箱】DeepSeek发布了V4-Flash-0731，这款模型在智力评分上拿到了50分，几乎追平了几个月前最顶尖的闭源模型。虽然它是个...</title>
-      <link>https://weibo.com/5327383570681799/Rbun32RmL</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【DeepSeek-V4-Flash：把“去年最强”塞进你的卧室机箱】DeepSeek发布了V4-Flash-0731，这款模型在智力评分上拿到了50分，几乎追平了几个月前最顶尖的闭源模型。虽然它是个拥有160GB权重的“大家伙”，但凭借MoE架构（每次只激活13B参数）和量化技术，现在只要花2000到5000美金组一台配有192GB内存和双 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ifp6nukmdfj20u00d7tgx.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ifp6nukmdfj20u00d7tgx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 15</span><span style="margin-right:15px;"> 评论 3</span><span> 赞 29</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327383570681799/Rbun32RmL" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327383570681799/Rbun32RmL</guid>
-      <pubDate>Sun, 02 Aug 2026 08:31:24 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【别让“氛围感编程”毁了你的长期资产】这篇文章撕开了AI编程的皇帝新衣：AI极大地缩短了从0到原型的时间，却没能缩短原型到生产级产品间的鸿沟。很多开发者在几个月的AI辅助后发现，代码库正变成一种“微妙...</title>
-      <link>https://weibo.com/5327381458062487/RbujDxPq7</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【别让“氛围感编程”毁了你的长期资产】这篇文章撕开了AI编程的皇帝新衣：AI极大地缩短了从0到原型的时间，却没能缩短原型到生产级产品间的鸿沟。很多开发者在几个月的AI辅助后发现，代码库正变成一种“微妙的混乱”——单看每行都对，合起来全是逻辑暗伤。这种“氛围感编程”（Vibe Coding）本质上是 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ifp6f3uij3j20og2yady2.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ifp6f3uij3j20og2yady2.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 5</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 20</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327381458062487/RbujDxPq7" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327381458062487/RbujDxPq7</guid>
-      <pubDate>Sun, 02 Aug 2026 08:23:00 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【当科幻预言家拒绝AI：一场关于灵魂与版权的防守战】曾以《加速》描绘奇点临近的科幻作家Charles Stross公开声明拒绝使用LLM。他将大模型视为随机鹦鹉和版权窃贼，强调写作的乐趣在于亲力亲为而...</title>
-      <link>https://weibo.com/5327379572460438/RbugBak4u</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【当科幻预言家拒绝AI：一场关于灵魂与版权的防守战】曾以《加速》描绘奇点临近的科幻作家Charles Stross公开声明拒绝使用LLM。他将大模型视为随机鹦鹉和版权窃贼，强调写作的乐趣在于亲力亲为而非交付结果。尽管他在文中误将GAN视为LLM的核心技术，引发了技术圈对其不懂行的嘲讽，但这并未削弱他作为 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 0</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327379572460438/RbugBak4u" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327379572460438/RbugBak4u</guid>
-      <pubDate>Sun, 02 Aug 2026 08:15:31 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【WASTE：让2.78万亿参数的Kimi K3在笔记本上“跑”起来】开发者sqliteai推出的WASTE引擎，通过直接从NVMe硬盘流式读取激活权重，实现了在仅有29GB可用内存的普通笔记本上运行...</title>
-      <link>https://weibo.com/5327377735354762/RbudDmt18</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【WASTE：让2.78万亿参数的Kimi K3在笔记本上“跑”起来】开发者sqliteai推出的WASTE引擎，通过直接从NVMe硬盘流式读取激活权重，实现了在仅有29GB可用内存的普通笔记本上运行完整版Kimi K3（2.78T参数）。这并非剪枝或蒸馏版，而是通过 Mixture of Experts (MoE) 架构的特性，只将每token激活的4%权重 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ifp5zq3oxwj21dk12yalj.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ifp5zq3oxwj21dk12yalj.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 8</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 15</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327377735354762/RbudDmt18" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327377735354762/RbudDmt18</guid>
-      <pubDate>Sun, 02 Aug 2026 08:08:13 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【2000美元买断数学天才的十年？OpenAI这波“战报”背后的虚实】OpenAI宣布其内部模型Astra攻克了10个困扰学术界数十年的数学与计算机科学难题，涵盖非索非群、球堆积等硬核领域，且声称To...</title>
-      <link>https://weibo.com/5327376348088178/RbuboxW6u</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【2000美元买断数学天才的十年？OpenAI这波“战报”背后的虚实】OpenAI宣布其内部模型Astra攻克了10个困扰学术界数十年的数学与计算机科学难题，涵盖非索非群、球堆积等硬核领域，且声称Token成本仅约2000美元。这些证明已通过Lean形式化验证，意味着逻辑上几乎无懈可击，OpenAI甚至为此发布了由AI撰写 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 2</span><span style="margin-right:15px;"> 评论 2</span><span> 赞 5</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327376348088178/RbuboxW6u" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327376348088178/RbuboxW6u</guid>
-      <pubDate>Sun, 02 Aug 2026 08:02:42 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【Google News 正在上演一场“阿甘式”坠毁】资深记者 Mike Elgan 指出 Google News 的搜索工具已彻底失灵：时间筛选被无视，地域限制失效，结果里全是社交媒体的噪音。这就像...</title>
-      <link>https://weibo.com/5327370590357430/Rbu271uZ0</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【Google News 正在上演一场“阿甘式”坠毁】资深记者 Mike Elgan 指出 Google News 的搜索工具已彻底失灵：时间筛选被无视，地域限制失效，结果里全是社交媒体的噪音。这就像阿甘为了看一眼岸边的丹中尉直接跳船，任由渔船撞向码头——Google 如今为了追逐 AI，正任由其核心产品腐烂。这并非简单的技 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ifp566fk2uj20xc0p0wl9.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ifp566fk2uj20xc0p0wl9.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ifp566fgxsj20xc0m00wg.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ifp566fgxsj20xc0m00wg.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 2</span><span> 赞 5</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327370590357430/Rbu271uZ0" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327370590357430/Rbu271uZ0</guid>
-      <pubDate>Sun, 02 Aug 2026 07:39:49 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【软件主权回归：为什么你该拥有只为一人设计的程序】开发者AJ Waxman分享了利用Claude Code为自己和家人构建一系列极度个性化应用的经历，包括根据长跑距离自动调整配方的奶昔助手，以及将复杂...</title>
-      <link>https://weibo.com/5327368684046500/RbtZ2gYG8</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【软件主权回归：为什么你该拥有只为一人设计的程序】开发者AJ Waxman分享了利用Claude Code为自己和家人构建一系列极度个性化应用的经历，包括根据长跑距离自动调整配方的奶昔助手，以及将复杂PDF逻辑转化为实时排班的婴儿睡眠工具。他认为在AI辅助下，软件构建成本已降至冰点，开发者不再需要为了规 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 6</span><span style="margin-right:15px;"> 评论 2</span><span> 赞 10</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327368684046500/RbtZ2gYG8" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327368684046500/RbtZ2gYG8</guid>
-      <pubDate>Sun, 02 Aug 2026 07:32:15 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【硅谷“创始人”绞肉机：当创业变成一场大型角色扮演】一个只会写基础代码的酒保，凭着身高、口音和魅力，在三年内完成了从编程训练营到YC创始人、再到技术负责人的跃迁，最终在药物和派对中精神崩溃。这不是虚构...</title>
-      <link>https://weibo.com/5327366899632351/RbtW9EpOv</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【硅谷“创始人”绞肉机：当创业变成一场大型角色扮演】一个只会写基础代码的酒保，凭着身高、口音和魅力，在三年内完成了从编程训练营到YC创始人、再到技术负责人的跃迁，最终在药物和派对中精神崩溃。这不是虚构小说，而是硅谷真实存在的“创始人流水线”。这套系统筛选的不再是解决问题的工程师，而 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 1</span><span style="margin-right:15px;"> 评论 2</span><span> 赞 11</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327366899632351/RbtW9EpOv" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327366899632351/RbtW9EpOv</guid>
-      <pubDate>Sun, 02 Aug 2026 07:25:09 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【别让“提示词肥大症”掏空你的Token钱包】最近的评测揭示了一个惊人的事实：在相同环境下执行同类任务，极简Agent框架smol仅消耗17万Token，而Claude Code却烧掉了500万，差距...</title>
-      <link>https://weibo.com/5327364831315748/RbtSP5whK</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【别让“提示词肥大症”掏空你的Token钱包】最近的评测揭示了一个惊人的事实：在相同环境下执行同类任务，极简Agent框架smol仅消耗17万Token，而Claude Code却烧掉了500万，差距高达30倍。这种“Token通胀”大多源于框架强行注入的复杂系统提示词和冗余工具集，它们不仅挤占了Context Window，还常引导 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 4</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327364831315748/RbtSP5whK" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327364831315748/RbtSP5whK</guid>
-      <pubDate>Sun, 02 Aug 2026 07:16:56 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>[人人能懂AI前沿] 从具身认知、探索式建模到并行解码本期我们来聊聊AI如何突破成长的瓶颈：最新的几篇论文告诉我们，聪明的AI正努力摆脱那个看不见自己身体的“幽灵”状态，并学会了用“笨办法”来激发创造...</title>
-      <link>https://weibo.com/5327360263979224/RbtLsgHb2</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">[人人能懂AI前沿] 从具身认知、探索式建模到并行解码<br /><br />本期我们来聊聊AI如何突破成长的瓶颈：最新的几篇论文告诉我们，聪明的AI正努力摆脱那个看不见自己身体的“幽灵”状态，并学会了用“笨办法”来激发创造力。它甚至开始成为自己精明的“预算会计”和高效的“项目经理”，最终踏上了“自我进化”的 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ifp3z7t8qvj20m80m8n13.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ifp3z7t8qvj20m80m8n13.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 1</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 0</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327360263979224/RbtLsgHb2" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327360263979224/RbtLsgHb2</guid>
-      <pubDate>Sun, 02 Aug 2026 06:58:46 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#AI自动投简历靠谱吗# 全自动投递最大的bug不是技术问题，是它让你失去了“感觉”。你不知道自己投了什么，不知道哪个岗位真正适合，不知道哪次修改真正有效。表面上是省时间，本质上是把求职这件需要判断决...</title>
-      <link>https://weibo.com/5327359647417661/RbtKsv7FH</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23AI%E8%87%AA%E5%8A%A8%E6%8A%95%E7%AE%80%E5%8E%86%E9%9D%A0%E8%B0%B1%E5%90%97%23" target="_blank">#AI自动投简历靠谱吗#</a> 全自动投递最大的bug不是技术问题，是它让你失去了“感觉”。你不知道自己投了什么，不知道哪个岗位真正适合，不知道哪次修改真正有效。表面上是省时间，本质上是把求职这件需要判断决策的事，变成了一场不过脑子的抽奖。而真正的机会，恰恰藏在那些需要你停下来、仔细看、认真改 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 1</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327359647417661/RbtKsv7FH" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327359647417661/RbtKsv7FH</guid>
-      <pubDate>Sun, 02 Aug 2026 06:56:20 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#AI越来越会写人类必须越来越会改# AI的问题不是写得不好，是写得太“对”了。它知道怎么让一句话在语法上无懈可击，在逻辑上滴水不漏，在修辞上恰到好处……但就是没有破绽，也就没有性格。真正能打动人的文...</title>
-      <link>https://weibo.com/5327358599104338/RbtILCcsa</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23AI%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%BC%9A%E5%86%99%E4%BA%BA%E7%B1%BB%E5%BF%85%E9%A1%BB%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%BC%9A%E6%94%B9%23" target="_blank">#AI越来越会写人类必须越来越会改#</a> AI的问题不是写得不好，是写得太“对”了。它知道怎么让一句话在语法上无懈可击，在逻辑上滴水不漏，在修辞上恰到好处……但就是没有破绽，也就没有性格。真正能打动人的文字，往往带着作者的执拗、偏见、不合时宜，甚至是某个瞬间的失控。AI永远学不会的，不是怎么 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 2</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 2</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5327358599104338/RbtILCcsa" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5327358599104338/RbtILCcsa</guid>
-      <pubDate>Sun, 02 Aug 2026 06:52:10 +0800</pubDate>
       <dc:creator>爱可可-爱生活</dc:creator>
     </item>
   </channel>
