@@ -8,242 +8,112 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>weibo-rss</generator>
     <image>
-      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1786683540&amp;ssig=78DEM%2FC%2B2r</url>
+      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1792583183&amp;ssig=BUkMfzkCDN</url>
       <title>爱可可-爱生活的微博</title>
       <link>https://weibo.com/u/1402400261</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:34:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:46:33 +0000</lastBuildDate>
     <item>
-      <title>[人人能懂AI前沿] 从全栈优化、信息悖论到模拟器坍塌  你有没有想过，让人工智能变聪明的秘诀，可能不是“更多”，而是“更巧”？本期我们要聊的几篇最新论文，就充满了这种“反常识”的智慧：从把效率从细节...</title>
-      <link>https://weibo.com/5331733115046579/RdjwrlaQr</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">[人人能懂AI前沿] 从全栈优化、信息悖论到模拟器坍塌
-
-你有没有想过，让人工智能变聪明的秘诀，可能不是“更多”，而是“更巧”？本期我们要聊的几篇最新论文，就充满了这种“反常识”的智慧：从把效率从细节里“省”出来，到警惕信息太丰富反而让AI“变笨”的悖论。我们还会看到，一个“完美”的陪练为何会带出最差的学生，以及如何通过精心呵护AI的“童年”，来预测它未来的潜力。准备好，让我们一起在这些看似矛盾的发现中，窥见AI的未来。
-
-http://t.cn/AXNY76dO</div>
+      <title>「摸清Agent上下文底细：开源插件 dsh-context」用 DeepSeek Harness 跑复杂任务或多智能体协作时，上下文膨胀与消耗往往难以捉摸。dsh-context 带来了一套清晰的透...</title>
+      <link>https://weibo.com/5356469010042330/RnH130b0K</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「摸清Agent上下文底细：开源插件 dsh-context」用 DeepSeek Harness 跑复杂任务或多智能体协作时，上下文膨胀与消耗往往难以捉摸。dsh-context 带来了一套清晰的透视方案：全局看板可盘点多会话的 Token 消耗、费用估算与活跃热力图；单会话内能以堆叠图直观还原 Prompt、工具及消息的实时占比，清楚记录每次演进、压缩与剪枝动作。它还配备了可追溯请求明细的浏览器、文件变动追踪，以及展现父子 Agent 关系的编队拓扑图。支持侧栏面板与 /context 快捷命令唤出，即装即用，告别黑盒排查。github.com /bowenliang123/dsh-context</div>
 <div style="margin:10px 0;">
-<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ig3273bj47j20m80m8n13.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ig3273bj47j20m80m8n13.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9z250izaj20zk0hswhk.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9z250izaj20zk0hswhk.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9z2521oyj21ky114q79.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9z2521oyj21ky114q79.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9z253smmj22c01buk4v.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9z253smmj22c01buk4v.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9z252jqoj21ri15iqd1.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9z252jqoj21ri15iqd1.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9z25odjij21dq0b8dhk.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9z25odjij21dq0b8dhk.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9z251zdaj20xq0owwj8.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9z251zdaj20xq0owwj8.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 2</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331733115046579/RdjwrlaQr" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331733115046579/RdjwrlaQr</guid>
-      <pubDate>Fri, 14 Aug 2026 08:34:56 +0800</pubDate>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 2</span><span> 赞 2</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356469010042330/RnH130b0K" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356469010042330/RnH130b0K</guid>
+      <pubDate>Wed, 21 Oct 2026 14:46:33 +0800</pubDate>
       <dc:creator>爱可可-爱生活</dc:creator>
     </item>
     <item>
-      <title>【Mistral OCR 4.1：在巨头缝隙中寻找垂直生路】Mistral 发布 OCR 4.1，将文档识别从简单的文字提取推向深度理解，支持原生段落级 Bounding Box 提取和结构化标签。与...</title>
-      <link>https://weibo.com/5331732645283443/RdjvGmasP</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【Mistral OCR 4.1：在巨头缝隙中寻找垂直生路】Mistral 发布 OCR 4.1，将文档识别从简单的文字提取推向深度理解，支持原生段落级 Bounding Box 提取和结构化标签。与传统模式匹配不同，它利用计算机视觉处理复杂排版、手写体及数学公式。目前 3.5 欧元/千页的定价引发争议，被指比 AWS 等竞品贵出一倍，但其在处理历史文献和复杂布局时的稳定性使其成为 Document AI 领域的重要变量。社区评论指出，虽然 Claude 和 OpenAI 的顶级模型在精度上依然领先，但 Anthropic 严苛的版权审查常导致扫描任务被拒，而 Mistral 提供了更松弛的边界。对于追求数据主权的欧洲用户或敏感行业，这种支持 Open Weights、可本地私有化部署的方案，比追求绝对的 AGI 更具现实意义。OCR 领域的竞争已不再是单纯的字符识别率比拼，而是价格、合规性与处理复杂逻辑能力的综合博弈。Mistral 押注细分工具模型，或许是欧洲 AI 避开正面战场、保留技术火种的务实选择。 docs.mistral.ai/models/ocr-4-1</div>
+      <title>「如何交付自己没完全看懂的AI代码？」HN上关于“不敢合入AI代码”的讨论戳中了不少人的痛处。代码生成速度远超肉眼阅读极限，大家摸索出的解法出奇一致：绝不把架构设计权交给模型。顶层抽象、数据流和系统边...</title>
+      <link>https://weibo.com/5356467416468052/RnGYtr8Dq</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「如何交付自己没完全看懂的AI代码？」HN上关于“不敢合入AI代码”的讨论戳中了不少人的痛处。代码生成速度远超肉眼阅读极限，大家摸索出的解法出奇一致：绝不把架构设计权交给模型。顶层抽象、数据流和系统边界必须由人定死，甚至先写好骨架与接口伪代码，只让模型填补具体实现；交付信心也不再依赖逐行细看，而是靠契约校验、模糊测试等防御性测试来兜底。程序员的日常正从敲代码，变成给Agent定规矩并对系统结果负责。 news.ycombinator.com /item?id=50151036</div>
 <div style="margin:10px 0;">
-<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ig3259i1dij21gs10sair.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ig3259i1dij21gs10sair.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9yuo9yhdj21o0280qpo.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9yuo9yhdj21o0280qpo.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9yuo9kboj21o02807to.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9yuo9kboj21o02807to.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoasssj21o02807wh.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoasssj21o02807wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoa8wqj21o0280qt1.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoa8wqj21o0280qt1.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9yuoaa57j21o02801kx.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9yuoaa57j21o02801kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoaronj21o02804qp.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoaronj21o02804qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuobiruj21o02801kx.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuobiruj21o02801kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9yuob2ulj21o02807wh.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9yuob2ulj21o02807wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9yuoajdpj21o02864qp.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9yuoajdpj21o02864qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片9" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 2</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 1</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331732645283443/RdjvGmasP" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331732645283443/RdjvGmasP</guid>
-      <pubDate>Fri, 14 Aug 2026 08:33:04 +0800</pubDate>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 7</span><span style="margin-right:15px;"> 评论 2</span><span> 赞 5</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356467416468052/RnGYtr8Dq" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356467416468052/RnGYtr8Dq</guid>
+      <pubDate>Wed, 21 Oct 2026 14:40:13 +0800</pubDate>
       <dc:creator>爱可可-爱生活</dc:creator>
     </item>
     <item>
-      <title>【DeepSeek Harness：把AI智能体的“黑盒”彻底拆开】DeepSeek发布了智能体框架DeepSeek Harness（DSH）的开发者预览版。这不仅是一个类似Claude Code的命...</title>
-      <link>https://weibo.com/5331731718605591/RdjubA6HR</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【DeepSeek Harness：把AI智能体的“黑盒”彻底拆开】DeepSeek发布了智能体框架DeepSeek Harness（DSH）的开发者预览版。这不仅是一个类似Claude Code的命令行工具，更是一套基于Cordis框架的插件化系统。DSH的核心逻辑是“一切皆插件”，从模型调用、文件编辑到UI界面均可动态加载或卸载，无需重启进程。最受关注的特性是全链路可追溯性，它通过Trajectory视图记录了模型看到的每一行System Prompt、推理过程、工具调用结果以及上下文注入，目前该项目以MIT协议开源。这件事的价值在于打破了硅谷大模型公司对“推理过程”的黑盒封锁。社区评论指出，OpenAI和Anthropic等厂商往往会加密或隐藏Chain of Thought，以防被竞争对手蒸馏，而DeepSeek选择将这些原始轨迹完全暴露给开发者，这对于调试复杂的Agent行为至关重要。此外，DeepSeek V4在训练阶段就针对该框架进行了后训练优化，这意味着官方框架与模型的配合度将远超第三方工具。虽然1.5GB的构建体积被吐槽为典型的现代前端膨胀，但其引入的“可撤销副作用”插件机制，实际上是在用软件工程的严谨性去对冲大模型的随机性。对开发者而言，这不仅是一个新工具，更是一套让AI在确定性环境下工作的实验场。</div>
+      <title>「造假5万条数据却被AI疯引？大模型检索逻辑拆解」研究员花50美元用AI生成了5万条虚假统计，谷歌迅速将其移出索引，ChatGPT却在7个月内持续调用，甚至被学术论文、银行研报及300多个站点引为信源...</title>
+      <link>https://weibo.com/5356404522879595/RnFl2c575</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「造假5万条数据却被AI疯引？大模型检索逻辑拆解」研究员花50美元用AI生成了5万条虚假统计，谷歌迅速将其移出索引，ChatGPT却在7个月内持续调用，甚至被学术论文、银行研报及300多个站点引为信源。这揭示出GEO与传统SEO的差异：模型遇知识空白时会拆解统计类子查询，且受限于成本只依相关度检索、并不核查真伪。虽然不可造假，但用真实数据制作单句承载事实的统计页面，正是获取AI引用的高效路径。详见 peec.ai /blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web</div>
 <div style="margin:10px 0;">
-<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ig321g51a5j21ts13gtep.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ig321g51a5j21ts13gtep.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ig321g565mj20og4b4b29.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ig321g565mj20og4b4b29.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9rngdutej21o0280h3p.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9rngdutej21o0280h3p.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9rngepbsj21o0280qsx.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9rngepbsj21o0280qsx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9rngek76j21o02807q6.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9rngek76j21o02807q6.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9rngflguj21o0286qp1.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9rngflguj21o0286qp1.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9rngezobj21o0282x41.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9rngezobj21o0282x41.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9rngemchj21o0282u0k.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9rngemchj21o0282u0k.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9rngfqidj21o02821kx.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9rngfqidj21o02821kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9rngety9j21o0282e5a.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9rngety9j21o0282e5a.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9rngefncj21o0282ay7.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9rngefncj21o0282ay7.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片9" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 4</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 4</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331731718605591/RdjubA6HR" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331731718605591/RdjubA6HR</guid>
-      <pubDate>Fri, 14 Aug 2026 08:29:23 +0800</pubDate>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 5</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 3</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356404522879595/RnFl2c575" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356404522879595/RnFl2c575</guid>
+      <pubDate>Wed, 21 Oct 2026 10:30:18 +0800</pubDate>
       <dc:creator>爱可可-爱生活</dc:creator>
     </item>
     <item>
-      <title>【GPT-5.6 Sol Ultrafast：当AI推理速度彻底超越人类语系】OpenAI联手Cerebras推出了GPT-5.6 Sol的极速模式，利用晶圆级引擎架构实现了每秒750个Token的惊...</title>
-      <link>https://weibo.com/5331730879743770/RdjsPESNA</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【GPT-5.6 Sol Ultrafast：当AI推理速度彻底超越人类语系】OpenAI联手Cerebras推出了GPT-5.6 Sol的极速模式，利用晶圆级引擎架构实现了每秒750个Token的惊人输出，比目前顶尖模型快了10倍以上。这项技术的核心在于抛弃了传统GPU的内存带宽瓶颈，通过超大容量的片上内存让模型权重常驻芯片，使GPT在处理 ​​​ ...<span class="expand">展开</span></div>
+      <title>「当AI开始替我们谋生，我们该教孩子什么？」面临新生儿降临的程序员在AGI风暴前陷入深思：当赖以谋生的技能被算法轻易瓦解，教育究竟为何而存在？回望历史，从爱迪生断言影视将取代教师，到当年科技界鼓吹公开...</title>
+      <link>https://weibo.com/5356400445752286/RnFeso8qO</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「当AI开始替我们谋生，我们该教孩子什么？」面临新生儿降临的程序员在AGI风暴前陷入深思：当赖以谋生的技能被算法轻易瓦解，教育究竟为何而存在？回望历史，从爱迪生断言影视将取代教师，到当年科技界鼓吹公开课颠覆大学，学校靠着林迪效应穿透了多次技术狂潮。过去我们以为“善于调动资源解决问题” ​​​ ...<span class="expand">展开</span></div>
 <div style="margin:10px 0;">
-<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ig31xyslp9j20zd0pamyn.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ig31xyslp9j20zd0pamyn.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ig31xyxn8pj20og3j44qp.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ig31xyxn8pj20og3j44qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9r64qpmzj21o0280e2b.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9r64qpmzj21o0280e2b.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9r64rfmxj21o0280h6g.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9r64rfmxj21o0280h6g.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9r64rctwj21o0280nn3.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9r64rctwj21o0280nn3.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9r64qv7ej21o0280qr4.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9r64qv7ej21o0280qr4.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9r64qt8oj21o02801hx.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9r64qt8oj21o02801hx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9r64s5cpj21o02801kx.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9r64s5cpj21o02801kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9r64s0cbj21o0280nnr.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9r64s0cbj21o0280nnr.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9r64qz7ij21o0280ayx.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9r64qz7ij21o0280ayx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9r64ru94j21o0280x2r.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9r64ru94j21o0280x2r.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片9" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 1</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 2</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331730879743770/RdjsPESNA" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331730879743770/RdjsPESNA</guid>
-      <pubDate>Fri, 14 Aug 2026 08:26:03 +0800</pubDate>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 5</span><span style="margin-right:15px;"> 评论 3</span><span> 赞 6</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356400445752286/RnFeso8qO" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356400445752286/RnFeso8qO</guid>
+      <pubDate>Wed, 21 Oct 2026 10:14:06 +0800</pubDate>
       <dc:creator>爱可可-爱生活</dc:creator>
     </item>
     <item>
-      <title>【Gemini 3.7 Flash：在“快”与“贵”的夹缝中寻找生态位】谷歌在 3.6 Flash 发布仅三周后便祭出 3.7 版本，核心卖点是针对 Agent 和编程场景的推理增强，并伴随一个极具迷...</title>
-      <link>https://weibo.com/5331729993959217/RdjrpgBYl</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【Gemini 3.7 Flash：在“快”与“贵”的夹缝中寻找生态位】谷歌在 3.6 Flash 发布仅三周后便祭出 3.7 版本，核心卖点是针对 Agent 和编程场景的推理增强，并伴随一个极具迷惑性的“试用价”：价格减半至每百万输入 Token 0.75 美元，但该优惠将于 2026 年底到期。社区评论指出，这更像是面对 GPT-5.6  ​​​ ...<span class="expand">展开</span></div>
+      <title>「一张面部照片，能读出多少生存风险？」仅凭一张面部照片就能预测癌症患者死亡风险，这项登上《柳叶刀·数字健康》的研究，让“看脸识命”从江湖话术变成了循证医学研究的新课题。简评：癌症死亡风险的关键不仅在肿...</title>
+      <link>https://weibo.com/5356395019108553/RnF5HCdy9</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「一张面部照片，能读出多少生存风险？」仅凭一张面部照片就能预测癌症患者死亡风险，这项登上《柳叶刀·数字健康》的研究，让“看脸识命”从江湖话术变成了循证医学研究的新课题。简评：癌症死亡风险的关键不仅在肿瘤本身，更在身体还剩多少本钱去对抗它。面部衰老痕迹恰好暴露了这个答案——它是器官 ​​​ ...<span class="expand">展开</span></div>
 <div style="margin:10px 0;">
-<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ig31ubcgmij21m80wuwi2.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ig31ubcgmij21m80wuwi2.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ig31ubf66aj20og4ge4q0.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ig31ubf66aj20og4ge4q0.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qifdkz9j21o0280txo.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qifdkz9j21o0280txo.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9qifebvoj21o02801jl.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9qifebvoj21o02801jl.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qifdkhsj21o0280b03.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qifdkhsj21o0280b03.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9qifen9gj21o02804qp.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9qifen9gj21o02804qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qifdrnnj21o0280u0b.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qifdrnnj21o0280u0b.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qifei6cj21o02804qp.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qifei6cj21o02804qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qife64cj21o02804qp.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qife64cj21o02804qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qifeasuj21o02801kx.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9qifeasuj21o02801kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9qifd425j21o0280avj.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9qifd425j21o0280avj.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片9" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 1</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331729993959217/RdjrpgBYl" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331729993959217/RdjrpgBYl</guid>
-      <pubDate>Fri, 14 Aug 2026 08:22:32 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#没有判别能力就不要用AI# 这一观点也揭示了AI时代最致命的悖论：工具的便利性正在掩盖能力的空心化。AI作为“概率接龙机器”，它不产生知识，只是拼接最可能的词序列，却因流畅表达制造了“权威感幻觉”。...</title>
-      <link>https://weibo.com/5331719299531635/Rdja9DZC3</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%88%A4%E5%88%AB%E8%83%BD%E5%8A%9B%E5%B0%B1%E4%B8%8D%E8%A6%81%E7%94%A8AI%23" target="_blank">#没有判别能力就不要用AI#</a> 这一观点也揭示了AI时代最致命的悖论：工具的便利性正在掩盖能力的空心化。AI作为“概率接龙机器”，它不产生知识，只是拼接最可能的词序列，却因流畅表达制造了“权威感幻觉”。更深层的警示是认知外包的不可逆性：当判断力被持续搁置，人会退化到连明显错误都识别不出的状 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 4</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331719299531635/Rdja9DZC3" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331719299531635/Rdja9DZC3</guid>
-      <pubDate>Fri, 14 Aug 2026 07:40:02 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#AI企业扎堆内蒙古抢风# AI竞赛的本质从未改变：始终是资源调度效率的比拼。从“拼算法”到“拼电力”的表象背后，是算力密度突破临界点后，能源约束从隐性成本跃升为显性瓶颈。乌兰察布的价值不在于绿电本身...</title>
-      <link>https://weibo.com/5331718452283469/Rdj8N9A29</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23AI%E4%BC%81%E4%B8%9A%E6%89%8E%E5%A0%86%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%A2%E9%A3%8E%23" target="_blank">#AI企业扎堆内蒙古抢风#</a> AI竞赛的本质从未改变：始终是资源调度效率的比拼。从“拼算法”到“拼电力”的表象背后，是算力密度突破临界点后，能源约束从隐性成本跃升为显性瓶颈。乌兰察布的价值不在于绿电本身，而在于它打通了“能源-算力-模型”的全链条套利空间——低电价降低训练成本、冷气候压缩运 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 0</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331718452283469/Rdj8N9A29" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331718452283469/Rdj8N9A29</guid>
-      <pubDate>Fri, 14 Aug 2026 07:36:40 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#AI正在悄悄偷走你的思考能力# 有些观点将工具使用等同于能力退化，混淆了认知分工与认知退化的本质区别。所谓“40%坚持力下降”恰恰说明人类正在合理地将低价值重复劳动外包，就像计算器普及后没人手算开方...</title>
-      <link>https://weibo.com/5331717938217417/Rdj7XytIZ</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23AI%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E5%81%B7%E8%B5%B0%E4%BD%A0%E7%9A%84%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%23" target="_blank">#AI正在悄悄偷走你的思考能力#</a> 有些观点将工具使用等同于能力退化，混淆了认知分工与认知退化的本质区别。所谓“40%坚持力下降”恰恰说明人类正在合理地将低价值重复劳动外包，就像计算器普及后没人手算开方，但数学思维并未因此消亡。真正的威胁不是AI“偷走”思考，而是教育体系仍在训练那些已被工具 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 1</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331717938217417/Rdj7XytIZ" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331717938217417/Rdj7XytIZ</guid>
-      <pubDate>Fri, 14 Aug 2026 07:34:38 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#联想英伟达# 这是典型的"算力分销权"争夺战而非技术创新突破。联想获得的本质是渠道话语权——在消费端通过首发绑定分食ARM PC转型红利，在企业端通过H200分销资格掌控国内高端算力入口。但核心矛盾...</title>
-      <link>https://weibo.com/5331716950722890/Rdj6n323w</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23%E8%81%94%E6%83%B3%E8%8B%B1%E4%BC%9F%E8%BE%BE%23" target="_blank">#联想英伟达#</a> 这是典型的&quot;算力分销权&quot;争夺战而非技术创新突破。联想获得的本质是渠道话语权——在消费端通过首发绑定分食ARM PC转型红利，在企业端通过H200分销资格掌控国内高端算力入口。但核心矛盾在于：RTX Spark的3nm ARM架构能否打破Windows生态40年x86惯性？H200分销能否在美国出口管制下持续？ ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 2</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331716950722890/Rdj6n323w" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331716950722890/Rdj6n323w</guid>
-      <pubDate>Fri, 14 Aug 2026 07:30:42 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#感觉大部分人真的要唱不过AI了# 很多人犯了一个根本错误：把技术能力等同于艺术本质。AI确实在声学参数上超越人类生理极限，但音乐从来不是“音准竞赛”。所谓“倒逼转向拼灵魂”是伪命题，因为音乐工业从未...</title>
-      <link>https://weibo.com/5331716588702852/Rdj5MAw0A</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E7%9C%9F%E7%9A%84%E8%A6%81%E5%94%B1%E4%B8%8D%E8%BF%87AI%E4%BA%86%23" target="_blank">#感觉大部分人真的要唱不过AI了#</a> 很多人犯了一个根本错误：把技术能力等同于艺术本质。AI确实在声学参数上超越人类生理极限，但音乐从来不是“音准竞赛”。所谓“倒逼转向拼灵魂”是伪命题，因为音乐工业从未以纯技巧为核心价值，情感叙事、文化符号、现场共鸣才是千百年不变的底层逻辑。AI冲击的只是 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 2</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331716588702852/Rdj5MAw0A" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331716588702852/Rdj5MAw0A</guid>
-      <pubDate>Fri, 14 Aug 2026 07:29:16 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#千万不要把AI当人生导师# 这场“反AI依赖”的集体焦虑本质是工具理性与价值理性的错位。AI的算法本质决定了它是“优化器”而非“决策者”——它通过海量数据拟合概率分布，但人生的独特性恰恰在于那些无法...</title>
-      <link>https://weibo.com/5331715583115664/Rdj4ad4wE</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8AAI%E5%BD%93%E4%BA%BA%E7%94%9F%E5%AF%BC%E5%B8%88%23" target="_blank">#千万不要把AI当人生导师#</a> 这场“反AI依赖”的集体焦虑本质是工具理性与价值理性的错位。AI的算法本质决定了它是“优化器”而非“决策者”——它通过海量数据拟合概率分布，但人生的独特性恰恰在于那些无法被统计的偶然、矛盾与非理性。真正的危机不在AI给出建议本身，而在人类主动放弃了“为不确定性 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 1</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331715583115664/Rdj4ad4wE" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331715583115664/Rdj4ad4wE</guid>
-      <pubDate>Fri, 14 Aug 2026 07:25:16 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#AI 黎曼猜想# 这一突破本质上揭示了AI科研的临界跃迁：当计算能力突破“组合爆炸”瓶颈后，AI在符号推理领域的优势从“效率工具”转向“路径发现者”——它不创造新公理，却能在人类已知定理的高维空间中...</title>
-      <link>https://weibo.com/5331715213756370/Rdj3zfLcC</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23AI%20%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%23" target="_blank">#AI 黎曼猜想#</a> 这一突破本质上揭示了AI科研的临界跃迁：当计算能力突破“组合爆炸”瓶颈后，AI在符号推理领域的优势从“效率工具”转向“路径发现者”——它不创造新公理，却能在人类已知定理的高维空间中穷举式探索非直觉组合，找到人类因认知惯性而忽略的“捷径”。67.2%的突破并非数学革命，而是计 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 3</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331715213756370/Rdj3zfLcC" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331715213756370/Rdj3zfLcC</guid>
-      <pubDate>Fri, 14 Aug 2026 07:23:48 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#DeepSeek官网撤公告疑似回滚# 这次“乌龙”本质是产品发布节奏与质量验证失控的典型案例。DeepSeek在跑分驱动的竞争压力下急于发布，却未完成充分的真实场景验证——当官方benchmark与...</title>
-      <link>https://weibo.com/5331714660369688/Rdj2G1yaI</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23DeepSeek%E5%AE%98%E7%BD%91%E6%92%A4%E5%85%AC%E5%91%8A%E7%96%91%E4%BC%BC%E5%9B%9E%E6%BB%9A%23" target="_blank">#DeepSeek官网撤公告疑似回滚#</a> 这次“乌龙”本质是产品发布节奏与质量验证失控的典型案例。DeepSeek在跑分驱动的竞争压力下急于发布，却未完成充分的真实场景验证——当官方benchmark与用户体感、第三方评测出现系统性偏离时，说明其内部质量标准已脱离实际应用价值。撤公告再重发的操作暴露了决策链的 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 3</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331714660369688/Rdj2G1yaI" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331714660369688/Rdj2G1yaI</guid>
-      <pubDate>Fri, 14 Aug 2026 07:21:36 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#DeepSeek调价方案# DeepSeek此次调价本质是商业模式从流量获取转向价值变现的必然转折。12倍涨幅看似激进，实则是对早期补贴策略的纠偏——当技术护城河初步建立、用户迁移成本形成后，通过峰...</title>
-      <link>https://weibo.com/5331713364591714/Rdj0AjgvU</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23DeepSeek%E8%B0%83%E4%BB%B7%E6%96%B9%E6%A1%88%23" target="_blank">#DeepSeek调价方案#</a> DeepSeek此次调价本质是商业模式从流量获取转向价值变现的必然转折。12倍涨幅看似激进，实则是对早期补贴策略的纠偏——当技术护城河初步建立、用户迁移成本形成后，通过峰谷分时定价既平滑了基础设施压力，又完成了从“技术输出”到“服务定价权”的跃迁。这标志着国产大模型告别 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 3</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331713364591714/Rdj0AjgvU" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331713364591714/Rdj0AjgvU</guid>
-      <pubDate>Fri, 14 Aug 2026 07:16:27 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#放心好了AI不会取代我们的# 所有说“AI只是工具”的人，都在回避一个残酷事实：当一个职业里80%的任务被工具完成，这个岗位就不需要五个人了，需要一个人加五份AI订阅。护城河的问题从来不是“AI能不...</title>
-      <link>https://weibo.com/5331712432932821/RdiZ5ciXz</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23%E6%94%BE%E5%BF%83%E5%A5%BD%E4%BA%86AI%E4%B8%8D%E4%BC%9A%E5%8F%96%E4%BB%A3%E6%88%91%E4%BB%AC%E7%9A%84%23" target="_blank">#放心好了AI不会取代我们的#</a> 所有说“AI只是工具”的人，都在回避一个残酷事实：当一个职业里80%的任务被工具完成，这个岗位就不需要五个人了，需要一个人加五份AI订阅。护城河的问题从来不是“AI能不能完全替代你”，而是“老板需要几个你”。那些被留下的人，干的不是原来的活，是给AI兜永远兜不完的 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 1</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331712432932821/RdiZ5ciXz" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331712432932821/RdiZ5ciXz</guid>
-      <pubDate>Fri, 14 Aug 2026 07:12:45 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#AI已经实现了8小时工作制# 真正让AI成为“打工圣体”的不是技术先进性，是它把劳动关系里最核心的那层窗户纸给捅破了——原来工作可以“没钱不干活”，原来需求不清可以“直接拒绝”，原来出错可以“不必自...</title>
-      <link>https://weibo.com/5331711986763309/RdiYmsnrD</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23AI%E5%B7%B2%E7%BB%8F%E5%AE%9E%E7%8E%B0%E4%BA%868%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BD%9C%E5%88%B6%23" target="_blank">#AI已经实现了8小时工作制#</a> 真正让AI成为“打工圣体”的不是技术先进性，是它把劳动关系里最核心的那层窗户纸给捅破了——原来工作可以“没钱不干活”，原来需求不清可以“直接拒绝”，原来出错可以“不必自责到失眠”。这个梗之所以让人破防，不是因为羡慕AI的算力，是因为它用冷冰冰的代码把人类打工 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 3</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331711986763309/RdiYmsnrD" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331711986763309/RdiYmsnrD</guid>
-      <pubDate>Fri, 14 Aug 2026 07:10:59 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#DeepSeekHarness发布# 这是一次对“AI Agent本质”的正确回归——Agent从来不是模型本身，而是执行环境与编排能力。当Codex与Claude Code将模型、工具、界面耦合成...</title>
-      <link>https://weibo.com/5331710755472454/RdiWnmXDo</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23DeepSeekHarness%E5%8F%91%E5%B8%83%23" target="_blank">#DeepSeekHarness发布#</a> 这是一次对“AI Agent本质”的正确回归——Agent从来不是模型本身，而是执行环境与编排能力。当Codex与Claude Code将模型、工具、界面耦合成黑盒产品时，DeepSeek用“Model+Harness=Agent”的公式解构了整个赛道——模型是可替换的商品，真正的护城河在运行时框架。300个社区插 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 1</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331710755472454/RdiWnmXDo" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331710755472454/RdiWnmXDo</guid>
-      <pubDate>Fri, 14 Aug 2026 07:06:05 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>#中国两大芯片巨头业绩超预期# AI 真正喂饱的不是那些天天喊“大模型”的公司，是产业链最深处那些闷声做晶圆代工的。中芯国际利润暴增 261%，不是因为他们突然会造 7nm 了，是因为 AI 把整个半...</title>
-      <link>https://weibo.com/5331708149760649/RdiSaEXbP</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;"><a href="//s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%A4%E5%A4%A7%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E4%B8%9A%E7%BB%A9%E8%B6%85%E9%A2%84%E6%9C%9F%23" target="_blank">#中国两大芯片巨头业绩超预期#</a> AI 真正喂饱的不是那些天天喊“大模型”的公司，是产业链最深处那些闷声做晶圆代工的。中芯国际利润暴增 261%，不是因为他们突然会造 7nm 了，是因为 AI 把整个半导体需求的水位线抬高了，连成熟制程都开始吃香。这就像一场暴雨，先淹了山顶的豪宅，最后连山脚的稻田都涨 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 5</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331708149760649/RdiSaEXbP" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331708149760649/RdiSaEXbP</guid>
-      <pubDate>Fri, 14 Aug 2026 06:55:44 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>[人人能懂AI前沿] 从全栈优化、信息悖论到模拟器坍塌 网页链接 ​​​</title>
-      <link>https://weibo.com/5331703062332155/RdiJY9MHp</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">[人人能懂AI前沿] 从全栈优化、信息悖论到模拟器坍塌 <a target="_blank" href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTBhAKBGDvJifDtIj-xU3dg"><img class="icon-link" title="http://t.cn/AXNjAgDZ" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png"/>网页链接</a> ​​​</div>
-<div style="margin:10px 0;">
-<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly8ig2yngb6quj20aq0hcgn3.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly8ig2yngb6quj20aq0hcgn3.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 3</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331703062332155/RdiJY9MHp" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331703062332155/RdiJY9MHp</guid>
-      <pubDate>Fri, 14 Aug 2026 06:35:31 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>今日推介(第2227期)：全栈正交更新、长上下文训练如何削弱参数化知识、多智能体强化学习中的模拟器坍缩问题、小规模实验：我们离目标还有多远？、面向 Softmax 量化的类别感知比特分配方法 公·众·...</title>
-      <link>https://weibo.com/5331702937552326/RdiJLvGHI</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">今日推介(第2227期)：全栈正交更新、长上下文训练如何削弱参数化知识、多智能体强化学习中的模拟器坍缩问题、小规模实验：我们离目标还有多远？、面向 Softmax 量化的类别感知比特分配方法 公·众·号：爱可可爱生活 <a target="_blank" href="https://weibo.cn/sinaurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FawXIyQyKI3fPZFEvj1dCPQ"><img class="icon-link" title="http://t.cn/AXNjAHpV" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png"/>网页链接</a> <a href="//s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23" target="_blank">#机器学习#</a><a href="//s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23" target="_blank">#人工智能#</a><a href="//s.weibo.com/weibo?q=%23%E8%AE%BA%E6%96%87%23" target="_blank">#论文#</a> ​​​</div>
-<div style="margin:10px 0;">
-<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly8ig2ypoxw4bj20u00gpq5s.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly8ig2ypoxw4bj20u00gpq5s.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly8ig2ypt5arzj20jg0xyn0x.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly8ig2ypt5arzj20jg0xyn0x.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
-<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly8ig2ypx6acaj20u00lvn20.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly8ig2ypx6acaj20u00lvn20.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
-<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly8ig2yqb872sj20u00iv41c.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly8ig2yqb872sj20u00iv41c.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
-<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly8ig2yqj6k5vj20u00nn7ay.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly8ig2yqj6k5vj20u00nn7ay.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 1</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5331702937552326/RdiJLvGHI" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5331702937552326/RdiJLvGHI</guid>
-      <pubDate>Fri, 14 Aug 2026 06:35:01 +0800</pubDate>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 0</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356395019108553/RnF5HCdy9" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356395019108553/RnF5HCdy9</guid>
+      <pubDate>Wed, 21 Oct 2026 09:52:31 +0800</pubDate>
       <dc:creator>爱可可-爱生活</dc:creator>
     </item>
   </channel>
