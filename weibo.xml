@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>weibo-rss</generator>
     <image>
-      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1792592868&amp;ssig=80B6YdlGhJ</url>
+      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1792592922&amp;ssig=pe1GIXTPlA</url>
       <title>爱可可-爱生活的微博</title>
       <link>https://weibo.com/u/1402400261</link>
     </image>
@@ -29,7 +29,7 @@
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iia6uyek96j21o02sk1kx.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iia6uyek96j21o02sk1kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iia6uydg0sj21o02b4haa.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iia6uydg0sj21o02b4haa.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片9" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 3</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 4</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356537526879803/RnINysRKz" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356537526879803/RnINysRKz</guid>
       <pubDate>Wed, 21 Oct 2026 19:18:49 +0800</pubDate>
@@ -50,7 +50,7 @@
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iia644jibtj21o0280azb.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iia644jibtj21o0280azb.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iia644jgcsj21o0280ayu.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iia644jgcsj21o0280ayu.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片9" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 4</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 1</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 4</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356530928976127/RnICUBF6f" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356530928976127/RnICUBF6f</guid>
       <pubDate>Wed, 21 Oct 2026 18:52:35 +0800</pubDate>
@@ -73,6 +73,45 @@
 <div style="margin-top:8px;"><a href="https://weibo.com/5356527151746997/RnIwP7ktn" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356527151746997/RnIwP7ktn</guid>
       <pubDate>Wed, 21 Oct 2026 18:37:35 +0800</pubDate>
+      <dc:creator>爱可可-爱生活</dc:creator>
+    </item>
+    <item>
+      <title>「摸清Agent上下文底细：开源插件 dsh-context」用 DeepSeek Harness 跑复杂任务或多智能体协作时，上下文膨胀与消耗往往难以捉摸。dsh-context 带来了一套清晰的透...</title>
+      <link>https://weibo.com/5356469010042330/RnH130b0K</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「摸清Agent上下文底细：开源插件 dsh-context」用 DeepSeek Harness 跑复杂任务或多智能体协作时，上下文膨胀与消耗往往难以捉摸。dsh-context 带来了一套清晰的透视方案：全局看板可盘点多会话的 Token 消耗、费用估算与活跃热力图；单会话内能以堆叠图直观还原 Prompt、工具及消息的实时占比，清楚 ​​​ ...<span class="expand">展开</span></div>
+<div style="margin:10px 0;">
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9z250izaj20zk0hswhk.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9z250izaj20zk0hswhk.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9z2521oyj21ky114q79.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9z2521oyj21ky114q79.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9z253smmj22c01buk4v.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9z253smmj22c01buk4v.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9z252jqoj21ri15iqd1.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9z252jqoj21ri15iqd1.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9z25odjij21dq0b8dhk.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9z25odjij21dq0b8dhk.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9z251zdaj20xq0owwj8.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9z251zdaj20xq0owwj8.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
+</div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 5</span><span style="margin-right:15px;"> 评论 2</span><span> 赞 7</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356469010042330/RnH130b0K" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356469010042330/RnH130b0K</guid>
+      <pubDate>Wed, 21 Oct 2026 14:46:33 +0800</pubDate>
+      <dc:creator>爱可可-爱生活</dc:creator>
+    </item>
+    <item>
+      <title>「如何交付自己没完全看懂的AI代码？」HN上关于“不敢合入AI代码”的讨论戳中了不少人的痛处。代码生成速度远超肉眼阅读极限，大家摸索出的解法出奇一致：绝不把架构设计权交给模型。顶层抽象、数据流和系统边...</title>
+      <link>https://weibo.com/5356467416468052/RnGYtr8Dq</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「如何交付自己没完全看懂的AI代码？」HN上关于“不敢合入AI代码”的讨论戳中了不少人的痛处。代码生成速度远超肉眼阅读极限，大家摸索出的解法出奇一致：绝不把架构设计权交给模型。顶层抽象、数据流和系统边界必须由人定死，甚至先写好骨架与接口伪代码，只让模型填补具体实现；交付信心也不再依赖逐 ​​​ ...<span class="expand">展开</span></div>
+<div style="margin:10px 0;">
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9yuo9yhdj21o0280qpo.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9yuo9yhdj21o0280qpo.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9yuo9kboj21o02807to.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii9yuo9kboj21o02807to.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoasssj21o02807wh.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoasssj21o02807wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoa8wqj21o0280qt1.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoa8wqj21o0280qt1.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9yuoaa57j21o02801kx.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9yuoaa57j21o02801kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoaronj21o02804qp.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuoaronj21o02804qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuobiruj21o02801kx.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii9yuobiruj21o02801kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9yuob2ulj21o02807wh.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii9yuob2ulj21o02807wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9yuoajdpj21o02864qp.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii9yuoajdpj21o02864qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片9" /></a>
+</div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 10</span><span style="margin-right:15px;"> 评论 3</span><span> 赞 9</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356467416468052/RnGYtr8Dq" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356467416468052/RnGYtr8Dq</guid>
+      <pubDate>Wed, 21 Oct 2026 14:40:13 +0800</pubDate>
       <dc:creator>爱可可-爱生活</dc:creator>
     </item>
   </channel>
