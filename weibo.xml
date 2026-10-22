@@ -8,16 +8,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>weibo-rss</generator>
     <image>
-      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1792664114&amp;ssig=FZx0BZ91nc</url>
+      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1792665943&amp;ssig=RIZ7aA39Yo</url>
       <title>爱可可-爱生活的微博</title>
       <link>https://weibo.com/u/1402400261</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:20:15 +0000</lastBuildDate>
+    <item>
+      <title>「当《王国之泪》遇上静态重编译：M4跑出90帧的新尝试」开发者liyong开源了MacNativeGames，借助静态重编译技术让《塞尔达传说：王国之泪》在Apple Silicon上原生运行。它摒弃...</title>
+      <link>https://weibo.com/5356839879051853/RnQFdBYND</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「当《王国之泪》遇上静态重编译：M4跑出90帧的新尝试」开发者liyong开源了MacNativeGames，借助静态重编译技术让《塞尔达传说：王国之泪》在Apple Silicon上原生运行。它摒弃了层层转译的传统模拟方案，利用Switch与苹果芯片同属ARM64架构的特性，把机器码直接转为macOS原生程序，图形指令直连Metal并支持MetalFX超分，搭配着色器预编译，在基础款M4上能跑出90帧。项目开发大量借助了AI编程工具，仓库本身不含任何游戏本体或任天堂代码，需要自备合法导出的游戏文件与密钥在本地编译。</div>
+<div style="margin:10px 0;">
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3e2vcj21o02fa7wh.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3e2vcj21o02fa7wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3c96ij21o01o81h9.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3c96ij21o01o81h9.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3dr2vj21o0280b29.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3dr2vj21o0280b29.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib5n3cwrrj21o01vk4qp.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib5n3cwrrj21o01vk4qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3cq8bj21o01tkhbw.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3cq8bj21o01tkhbw.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib5n3bxmoj21o01ig7t4.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib5n3bxmoj21o01ig7t4.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3ca0cj21o01ni7vf.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3ca0cj21o01ni7vf.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3bii5j21o01ig1f8.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib5n3bii5j21o01ig1f8.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib5n3ekfsj21o0280hdt.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib5n3ekfsj21o0280hdt.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片9" /></a>
+</div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 0</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356839879051853/RnQFdBYND" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356839879051853/RnQFdBYND</guid>
+      <pubDate>Thu, 22 Oct 2026 15:20:15 +0800</pubDate>
+      <dc:creator>爱可可-爱生活</dc:creator>
+    </item>
     <item>
       <title>「重回大模型前夜：动手写一遍经典NLP」巴黎顶尖AI项目MVA硕士课程讲师David Louapre把他的第一堂课做成了交互教程。内容沿着语言模型的发展脉络，从最朴素的词频统计一路推导至注意力机制，每...</title>
       <link>https://weibo.com/5356835244611186/RnQxKjlzY</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「重回大模型前夜：动手写一遍经典NLP」巴黎顶尖AI项目MVA硕士课程讲师David Louapre把他的第一堂课做成了交互教程。内容沿着语言模型的发展脉络，从最朴素的词频统计一路推导至注意力机制，每个环节都配有取材于经典论文的手写练习。在AI写代码越来越廉价的当下，为什么还要花精力亲自手搓基础算法？答案恰恰在于，只有亲自动手跑通这些关键节点，才能建立起真正属于自己的底层理解，而不止于停留在调用接口的层面。想扎实摸清现代NLP技术源流的话，推荐跟着动手过一遍：huggingface.co /spaces/dlouapre/nlp-before-llms</div>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「重回大模型前夜：动手写一遍经典NLP」巴黎顶尖AI项目MVA硕士课程讲师David Louapre把他的第一堂课做成了交互教程。内容沿着语言模型的发展脉络，从最朴素的词频统计一路推导至注意力机制，每个环节都配有取材于经典论文的手写练习。在AI写代码越来越廉价的当下，为什么还要花精力亲自手搓基础算法？ ​​​ ...<span class="expand">展开</span></div>
 <div style="margin:10px 0;">
 <a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib542nrjnj21o03rcqv5.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib542nrjnj21o03rcqv5.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
 <a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib542ifssj21o028k4qp.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib542ifssj21o028k4qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
@@ -28,7 +49,7 @@
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib542js5ij21o02pe7wh.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib542js5ij21o02pe7wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib542go0rj21o01o0e0e.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib542go0rj21o01o0e0e.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 2</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 0</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 1</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356835244611186/RnQxKjlzY" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356835244611186/RnQxKjlzY</guid>
       <pubDate>Thu, 22 Oct 2026 15:01:50 +0800</pubDate>
@@ -37,7 +58,7 @@
     <item>
       <title>「把日常机械变成可交互的手绘透视模型」开发者 April Zhu 推出的开源技能 Colorfigures 很有巧思。只需一句简单描述，比如“投币转动的扭蛋机”或“水开自动跳闸的热水壶”，AI 就能生...</title>
       <link>https://weibo.com/5356831846433049/RnQsgqZwR</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「把日常机械变成可交互的手绘透视模型」开发者 April Zhu 推出的开源技能 Colorfigures 很有巧思。只需一句简单描述，比如“投币转动的扭蛋机”或“水开自动跳闸的热水壶”，AI 就能生成手绘线稿风格的等轴测模型。生成的并非静态图，而是能在浏览器中直接把玩的独立 HTML 网页：支持 360 度拖动旋转，机身上的按钮旋钮都可真实按动交互，还能打开透视模式观察内部齿轮连杆如何运转，运作时零件标注还会同步点亮。全程无需手动写代码，已适配 Claude、ChatGPT 与 Gemini 等主流平台，很适合用来做趣味原型或具象展示生活机械原理。april-zhu.com /colorfigures</div>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「把日常机械变成可交互的手绘透视模型」开发者 April Zhu 推出的开源技能 Colorfigures 很有巧思。只需一句简单描述，比如“投币转动的扭蛋机”或“水开自动跳闸的热水壶”，AI 就能生成手绘线稿风格的等轴测模型。生成的并非静态图，而是能在浏览器中直接把玩的独立 HTML 网页：支持 360 度拖动旋转 ​​​ ...<span class="expand">展开</span></div>
 <div style="margin:10px 0;">
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib4qfp143j20ui138n5f.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib4qfp143j20ui138n5f.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib4qfoiylj20vm0vcdj9.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib4qfoiylj20vm0vcdj9.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
@@ -66,7 +87,7 @@
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib4ds94adj21o03jkx6p.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib4ds94adj21o03jkx6p.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
 <a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib4ds9itlj21o038y7wi.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib4ds9itlj21o038y7wi.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片9" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 5</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 4</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 5</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 8</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356829225783982/RnQo2ogG2" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356829225783982/RnQo2ogG2</guid>
       <pubDate>Thu, 22 Oct 2026 14:37:55 +0800</pubDate>
@@ -123,7 +144,7 @@
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib28hkiuxj21o02907wh.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib28hkiuxj21o02907wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib28hlhj2j21o02nshdt.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib28hlhj2j21o02nshdt.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 9</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 10</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 10</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 11</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356810111291526/RnPTd5pZ4" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356810111291526/RnPTd5pZ4</guid>
       <pubDate>Thu, 22 Oct 2026 13:21:58 +0800</pubDate>
@@ -1785,21 +1806,6 @@
 <div style="margin-top:8px;"><a href="https://weibo.com/5355963605057757/RntRSldKJ" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5355963605057757/RntRSldKJ</guid>
       <pubDate>Tue, 20 Oct 2026 05:18:15 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>[转发] 这项工作的真正价值不在于证明了什么定理，而在于改变了提问的方式。数学研究的瓶颈往往不是推导过程，而是不知道该问什么问题、建立什么概念。繁忙海狸问题的不可计算性恰好提供了一个天然的实验场：这里没有标准答...</title>
-      <link>https://weibo.com/5355963579891751/RntRPFvin</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">这项工作的真正价值不在于证明了什么定理，而在于改变了提问的方式。数学研究的瓶颈往往不是推导过程，而是不知道该问什么问题、建立什么概念。繁忙海狸问题的不可计算性恰好提供了一个天然的实验场：这里没有标准答案，也没有人类专家提前划定的路径。AI必须自己决定什么模式值得命名，什么结构值得形 ...<span class="expand">展开</span></div>
-<blockquote style="border-left:3px solid #eb7350;padding:8px 12px;margin:8px 0;color:#666;background:#f9f9f9;"><p style="margin:0 0 4px;font-size:13px;color:#eb7350;">  @爱可可-爱生活:</p><p style="margin:0;font-size:14px;">[AI]《At the Limits of Computability: Steps Towards Autonomous AI Discovery on the Busy Beaver Frontier》M D Santos, V Veeriah, A Havrilla, A Bol… [Google DeepMind] (2026) 在数学AI中，机器自主提问是一个悬而未决的难题。过去的方法受困于解答预设考题，本质原因是难以从底层执行流抽 ​​​ ...展开</p></blockquote>
-<div style="margin:10px 0;">
-<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly8ii8cm280zij20rj0dsjvj.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly8ii8cm280zij20rj0dsjvj.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly8ii8cm2jrqmj20ra0asjsn.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly8ii8cm2jrqmj20ra0asjsn.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 6</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 0</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5355963579891751/RntRPFvin" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5355963579891751/RntRPFvin</guid>
-      <pubDate>Tue, 20 Oct 2026 05:18:09 +0800</pubDate>
       <dc:creator>爱可可-爱生活</dc:creator>
     </item>
   </channel>
