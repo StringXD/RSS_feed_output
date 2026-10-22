@@ -8,20 +8,39 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>weibo-rss</generator>
     <image>
-      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1792656790&amp;ssig=og2bQs8LRw</url>
+      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1792658636&amp;ssig=Pcxc9B9t7h</url>
       <title>爱可可-爱生活的微博</title>
       <link>https://weibo.com/u/1402400261</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 05:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:21:58 +0000</lastBuildDate>
+    <item>
+      <title>【如何搭建自主交付代码的多Agent协作团队】AI写代码早已跳出单窗口对话的局限。SpaceXAI工程师Lauren Tan在这场实战分享中，详细拆解了他用pstack驱动21个GrokBot协同工作...</title>
+      <link>https://weibo.com/5356810111291526/RnPTd5pZ4</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【如何搭建自主交付代码的多Agent协作团队】AI写代码早已跳出单窗口对话的局限。SpaceXAI工程师Lauren Tan在这场实战分享中，详细拆解了他用pstack驱动21个GrokBot协同工作的整套机制：利用/loop与/goal让智能体长时间专注目标，配合自动化验证和CI规范把控交付质量，再由“幕僚长”Agent统筹全局分工，真正跑通从调研、编码、审查到上线的无人值守闭环。比起反复打磨提示词，把工程规范沉淀为可复用技能、搭建稳固的协作架构才是智能体落地的关键。完整视频：youtube.com /watch?v=PcO998TSzIs</div>
+<div style="margin:10px 0;">
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib28hinymj21o01o0wzq.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib28hinymj21o01o0wzq.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib28hkm3xj21o02j07wh.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib28hkm3xj21o02j07wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib28hkhf8j21o02bcb29.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib28hkhf8j21o02bcb29.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib28hiarqj21o01o0tt8.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib28hiarqj21o01o0tt8.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib28hjax3j21o01q2qsw.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib28hjax3j21o01q2qsw.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib28hkiuxj21o02907wh.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib28hkiuxj21o02907wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib28hlhj2j21o02nshdt.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib28hlhj2j21o02nshdt.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
+</div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 4</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 2</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356810111291526/RnPTd5pZ4" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356810111291526/RnPTd5pZ4</guid>
+      <pubDate>Thu, 22 Oct 2026 13:21:58 +0800</pubDate>
+      <dc:creator>爱可可-爱生活</dc:creator>
+    </item>
     <item>
       <title>【用大模型画手绘卡通：ClaudeAnimationBase开源套件】这个项目把 Claude 与图形库 p5.js 及 p5.brush 结合，跑通了一套手绘风二维动画制作流程。项目内置了名为 Cl...</title>
       <link>https://weibo.com/5356806117524231/RnPMLvzoz</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【用大模型画手绘卡通：ClaudeAnimationBase开源套件】这个项目把 Claude 与图形库 p5.js 及 p5.brush 结合，跑通了一套手绘风二维动画制作流程。项目内置了名为 Clawd 的卡通角色与 31 种预设情绪动作，并配有一套详细的动画制作规范。你只需给出一句提示词，模型就会先规划分镜、逐镜头编写绘制代码，借助接触表自检画面，最后调用无头 Chrome 与 ffmpeg 输出带有水彩笔触与动态线条的完整视频。它不仅支持本地可视化调试，也适配了无卡或云端服务器的无头渲染，为探索 AI 驱动程序化视觉表达提供了一套很扎实的落地参考。github： JohnHeibel/ClaudeAnimationBase</div>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【用大模型画手绘卡通：ClaudeAnimationBase开源套件】这个项目把 Claude 与图形库 p5.js 及 p5.brush 结合，跑通了一套手绘风二维动画制作流程。项目内置了名为 Clawd 的卡通角色与 31 种预设情绪动作，并配有一套详细的动画制作规范。你只需给出一句提示词，模型就会先规划分镜、逐镜头编写绘制代码 ​​​ ...<span class="expand">展开</span></div>
 <div style="margin:10px 0;">
 <a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib1rzbhuuj21du1b0e81.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib1rzbhuuj21du1b0e81.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 0</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 1</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356806117524231/RnPMLvzoz" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356806117524231/RnPMLvzoz</guid>
       <pubDate>Thu, 22 Oct 2026 13:06:06 +0800</pubDate>
@@ -30,13 +49,13 @@
     <item>
       <title>【不跑视频模型，纯靠写代码做出15种MG动画】开发者开源的 mg-styles-15 带来了一种截然不同的动效设计思路：项目不依赖任何文生视频大模型，而是让 Claude 基于单条提示词编写代码，直接...</title>
       <link>https://weibo.com/5356805467147135/RnPLItZin</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【不跑视频模型，纯靠写代码做出15种MG动画】开发者开源的 mg-styles-15 带来了一种截然不同的动效设计思路：项目不依赖任何文生视频大模型，而是让 Claude 基于单条提示词编写代码，直接生成了 15 支风格各异的 10 秒动态设计成片。从逐格手绘、等轴测、赛博朋克 HUD 到复古波与流体质感，画面完全由 SVG、WebGL、Three.js 与 Blender 代码绘制，配乐和音效也同步由 Python 脚本合成。项目不仅放出了完整成片，还开放了对应的全部提示词、评审打分标准与工程源码，本地配置好基础环境就能直接渲染复现或调整二创。github：Vincentwei1021/mg-styles-15</div>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【不跑视频模型，纯靠写代码做出15种MG动画】开发者开源的 mg-styles-15 带来了一种截然不同的动效设计思路：项目不依赖任何文生视频大模型，而是让 Claude 基于单条提示词编写代码，直接生成了 15 支风格各异的 10 秒动态设计成片。从逐格手绘、等轴测、赛博朋克 HUD 到复古波与流体质感，画面完全由  ​​​ ...<span class="expand">展开</span></div>
 <div style="margin:10px 0;">
 <a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib1p20hsfj21ts13gtoe.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib1p20hsfj21ts13gtoe.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib1p1zjmhj21hc0slqaj.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib1p1zjmhj21hc0slqaj.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib1p21xp4j21si1jaqmo.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib1p21xp4j21si1jaqmo.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 2</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 0</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 1</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356805467147135/RnPLItZin" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356805467147135/RnPLItZin</guid>
       <pubDate>Thu, 22 Oct 2026 13:03:31 +0800</pubDate>
@@ -45,7 +64,7 @@
     <item>
       <title>【Rust编译器的厚积薄发：2026迎来收获期】多年的技术积累正在rustc集中兑现。重写近十年的新Trait求解器步入收尾，彻底理顺类型系统底层，扫清async与impl Trait的长年痛点；Po...</title>
       <link>https://weibo.com/5356803480094133/RnPIw0ouh</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【Rust编译器的厚积薄发：2026迎来收获期】多年的技术积累正在rustc集中兑现。重写近十年的新Trait求解器步入收尾，彻底理顺类型系统底层，扫清async与impl Trait的长年痛点；Polonius新借用检查器也迎来实质进展。编译性能方面同样动作频频：并行前端接近稳定，加上LLVM 23的提速与MIR层面的Move消除，构建耗时持续压降；Cargo也实现了check与build缓存复用并缩减产物目录。底层架构与推进机制的理顺，让这套庞大系统的演进节奏明显轻快了起来。yoyo-code.com /2026-is-exciting-year-for-rust-compiler-and-me/</div>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【Rust编译器的厚积薄发：2026迎来收获期】多年的技术积累正在rustc集中兑现。重写近十年的新Trait求解器步入收尾，彻底理顺类型系统底层，扫清async与impl Trait的长年痛点；Polonius新借用检查器也迎来实质进展。编译性能方面同样动作频频：并行前端接近稳定，加上LLVM 23的提速与MIR层面的Move消除 ​​​ ...<span class="expand">展开</span></div>
 <div style="margin:10px 0;">
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib1fndj2yj21o02fi4qp.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib1fndj2yj21o02fi4qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
 <a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib1fndaszj21o0280b29.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib1fndaszj21o0280b29.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
@@ -57,7 +76,7 @@
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib1fnbam0j21o01o0dz1.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib1fnbam0j21o01o0dz1.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
 <a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib1fndrxfj21o02807wh.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib1fndrxfj21o02807wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片9" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 1</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 2</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356803480094133/RnPIw0ouh" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356803480094133/RnPIw0ouh</guid>
       <pubDate>Thu, 22 Oct 2026 12:55:37 +0800</pubDate>
@@ -66,7 +85,7 @@
     <item>
       <title>【OpenAI发力冷门语言：老旧系统改造有了新解法】COBOL与Fortran等低资源语言支撑着全球大量银行交易与核心基建，却因文档缺失和人才断层极难维护。为此，OpenAI针对性强化了代码理解与转换...</title>
       <link>https://weibo.com/5356800301073131/RnPDo4vaz</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【OpenAI发力冷门语言：老旧系统改造有了新解法】COBOL与Fortran等低资源语言支撑着全球大量银行交易与核心基建，却因文档缺失和人才断层极难维护。为此，OpenAI针对性强化了代码理解与转换能力，并推出两项新基准：用20种语言从零构建SQLite引擎的MultiLangBench，以及验证业务逻辑逐字节一致的COBOL迁移测试。实测中，GPT-6 Astra多语言测试平均通过率达87.4%，GPT-6.1 Sol迁移准确率高达97.9%，且调用成本显著走低，切实化解了关键老旧系统的迁移难题。openai.com /zh-Hans-CN/index/low-resource-programming-languages/</div>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【OpenAI发力冷门语言：老旧系统改造有了新解法】COBOL与Fortran等低资源语言支撑着全球大量银行交易与核心基建，却因文档缺失和人才断层极难维护。为此，OpenAI针对性强化了代码理解与转换能力，并推出两项新基准：用20种语言从零构建SQLite引擎的MultiLangBench，以及验证业务逻辑逐字节一致的COBOL ​​​ ...<span class="expand">展开</span></div>
 <div style="margin:10px 0;">
 <a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib13szbpkj21o02807ry.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib13szbpkj21o02807ry.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
 <a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib13sz58xj21o01o01kx.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib13sz58xj21o01o01kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
@@ -76,7 +95,7 @@
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib13t02ptj21o02807wh.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib13t02ptj21o02807wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib13swzv2j21o01o0qcq.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iib13swzv2j21o01o0qcq.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 1</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 4</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 1</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356800301073131/RnPDo4vaz" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356800301073131/RnPDo4vaz</guid>
       <pubDate>Thu, 22 Oct 2026 12:42:59 +0800</pubDate>
@@ -90,7 +109,7 @@
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0tvala2j20uw0xaq6n.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0tvala2j20uw0xaq6n.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0tvelj1j225m1cc4gw.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0tvelj1j225m1cc4gw.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 2</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 4</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 3</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356797939679532/RnPzzEC5u" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356797939679532/RnPzzEC5u</guid>
       <pubDate>Thu, 22 Oct 2026 12:33:35 +0800</pubDate>
@@ -110,7 +129,7 @@
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0njbhy7j21o02cqe81.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0njbhy7j21o02cqe81.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
 <a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib0nja56rj21o01uqhc0.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib0nja56rj21o01uqhc0.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 5</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 5</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 7</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 6</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356796304428909/RnPwWiAa1" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356796304428909/RnPwWiAa1</guid>
       <pubDate>Thu, 22 Oct 2026 12:27:06 +0800</pubDate>
@@ -144,7 +163,7 @@
 <a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1iiauqxg2bsj21o028c1kx.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1iiauqxg2bsj21o028c1kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
 <a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1iiauqxf66nj21o028cdu3.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1iiauqxf66nj21o028cdu3.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 8</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 6</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 8</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 7</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356745503016520/RnOd0cEJy" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356745503016520/RnOd0cEJy</guid>
       <pubDate>Thu, 22 Oct 2026 09:05:14 +0800</pubDate>
@@ -162,7 +181,7 @@
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iiau948rw3j21o02g6b29.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iiau948rw3j21o02g6b29.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iiau9491r7j21o02g61kx.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iiau9491r7j21o02g61kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 4</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 2</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 4</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 3</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356740670652817/RnO5d2JPj" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356740670652817/RnO5d2JPj</guid>
       <pubDate>Thu, 22 Oct 2026 08:46:01 +0800</pubDate>
@@ -1752,20 +1771,6 @@
 <div style="margin-top:8px;"><a href="https://weibo.com/5355809480378490/RnpRi1AsG" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5355809480378490/RnpRi1AsG</guid>
       <pubDate>Mon, 19 Oct 2026 19:05:49 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>【密歇根大学这门新课，教你像工程师一样驾驭 Coding Agent】密歇根大学 EECS 498（AASE）把智能体软件工程做成了一门扎实硬核的专业选修课。这里没有期末考试，全凭可运行的代码说话。十...</title>
-      <link>https://weibo.com/5355807422285718/RnpNY9ACq</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">【密歇根大学这门新课，教你像工程师一样驾驭 Coding Agent】密歇根大学 EECS 498（AASE）把智能体软件工程做成了一门扎实硬核的专业选修课。这里没有期末考试，全凭可运行的代码说话。十五周的训练分三步走：先上手 Aider 结对编程，从上下文、模型与提示词三要素排查故障；接着拿掉现成框架，直接调 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii7v2usov0j21qo0x6gud.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii7v2usov0j21qo0x6gud.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii7v2ut91ej21qe1cm7ie.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii7v2ut91ej21qe1cm7ie.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 68</span><span style="margin-right:15px;"> 评论 4</span><span> 赞 68</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5355807422285718/RnpNY9ACq" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5355807422285718/RnpNY9ACq</guid>
-      <pubDate>Mon, 19 Oct 2026 18:57:38 +0800</pubDate>
       <dc:creator>爱可可-爱生活</dc:creator>
     </item>
   </channel>
