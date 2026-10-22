@@ -8,12 +8,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>weibo-rss</generator>
     <image>
-      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1792653141&amp;ssig=vSdOxVbqbl</url>
+      <url>https://tva2.sinaimg.cn/crop.10.34.646.646.50/5396ee05jw1ena6co8qiwj20sg0izjxd.jpg?KID=imgbed,tva&amp;Expires=1792654958&amp;ssig=L%2BN6N4iXQJ</url>
       <title>爱可可-爱生活的微博</title>
       <link>https://weibo.com/u/1402400261</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:33:35 +0000</lastBuildDate>
+    <item>
+      <title>「Anthropic发布Claude Duet：更懂分寸的主动型个人AI助理」不同于以往“有问才答”的对话工具，基于Opus 5.5的Claude Duet更像一位能独当一面的幕后搭档。它每天清晨会自...</title>
+      <link>https://weibo.com/5356797939679532/RnPzzEC5u</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「Anthropic发布Claude Duet：更懂分寸的主动型个人AI助理」不同于以往“有问才答”的对话工具，基于Opus 5.5的Claude Duet更像一位能独当一面的幕后搭档。它每天清晨会自动递上一份晨报，梳理待办日程与业务要点；借助6000多款连接器和插件，它能接手搭建数据看板、整理材料、跟进合同等复杂任务，在云端独立推进。更难得的是它懂得适时保持安静，只在发邮件或对外付款等关键节点才请你定夺，省心且守得住安全边界。目前该功能已在美区向Pro与Max订阅用户开放候补，支持手机与网页端体验。claude.com /product/claude-duet</div>
+<div style="margin:10px 0;">
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0tvala2j20uw0xaq6n.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0tvala2j20uw0xaq6n.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0tvelj1j225m1cc4gw.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0tvelj1j225m1cc4gw.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+</div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 2</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 1</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356797939679532/RnPzzEC5u" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356797939679532/RnPzzEC5u</guid>
+      <pubDate>Thu, 22 Oct 2026 12:33:35 +0800</pubDate>
+      <dc:creator>爱可可-爱生活</dc:creator>
+    </item>
+    <item>
+      <title>「Google官方Rust代码风格指南」随着Rust在Android、Chromium及Fuchsia等项目中的落地，Google整理了这份团队编码规范。除了格式统一，指南更看重长期可维护性以及大型工...</title>
+      <link>https://weibo.com/5356796304428909/RnPwWiAa1</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">「Google官方Rust代码风格指南」随着Rust在Android、Chromium及Fuchsia等项目中的落地，Google整理了这份团队编码规范。除了格式统一，指南更看重长期可维护性以及大型工程自动化重构的便利度。文中对许多实操细节给出了明确取舍：区分通用库与业务代码的设计标准；克制使用Rc、Arc与unsafe；入参优先使用&amp;str和&amp;[T]等灵活借用而非具体容器；用enum替代语义模糊的布尔值；严控glob导入与复杂宏的滥用。整份规范务实克制，很适合日常工程协作对照参考。完整内容见 google.github.io /styleguide/rustguide.html</div>
+<div style="margin:10px 0;">
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib0nj9buaj21o01o0tt0.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib0nj9buaj21o01o0tt0.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib0njxpgxj21o01o0ay9.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib0njxpgxj21o01o0ay9.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib0njaxe3j21o01zk7wh.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1iib0njaxe3j21o01zk7wh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib0njakdmj21o01z64qp.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib0njakdmj21o01z64qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0njaflmj21o01sw4qp.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0njaflmj21o01sw4qp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0nja62aj21o01o8u0h.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0nja62aj21o01o8u0h.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0njbhy7j21o02cqe81.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iib0njbhy7j21o02cqe81.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片7" /></a>
+<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib0nja56rj21o01uqhc0.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1iib0nja56rj21o01uqhc0.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
+</div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 3</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356796304428909/RnPwWiAa1" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356796304428909/RnPwWiAa1</guid>
+      <pubDate>Thu, 22 Oct 2026 12:27:06 +0800</pubDate>
+      <dc:creator>爱可可-爱生活</dc:creator>
+    </item>
+    <item>
+      <title>[转发] 恭喜@湖边的杉树1990 等3名用户获得【《Codex AI自媒体实战》】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：网页链接</title>
+      <link>https://weibo.com/5356792776231284/RnPrfq92A</link>
+      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">恭喜<a href=/n/湖边的杉树1990 usercard="name=@湖边的杉树1990">@湖边的杉树1990</a> 等3名用户获得【《Codex AI自媒体实战》】。微博官方唯一抽奖工具<a href=/n/微博抽奖平台 usercard="name=@微博抽奖平台">@微博抽奖平台</a> 对本次抽奖进行监督，结果公正有效。公示链接：<a target="_blank" href="https://lottery.media.weibo.com/lottery/h5/result/new?id=26915519&pageid=100140E51756203"><img class="icon-link" title="http://t.cn/AXjAEO0L" src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png"/>网页链接</a></div>
+<blockquote style="border-left:3px solid #eb7350;padding:8px 12px;margin:8px 0;color:#666;background:#f9f9f9;"><p style="margin:0 0 4px;font-size:13px;color:#eb7350;">  @爱可可-爱生活:</p><p style="margin:0;font-size:14px;">#转发赠书#携手@博文视点Broadview 送出3本《Codex AI自媒体实战（零基础·案例版）》，截止2026年10月22日，*可可粉*转发+评论 即可参与。不同于普通 AI 只能单次写稿，Codex 可搭建专属工作流、沉淀 Skill 流程、实现任务自动化。本书依托大量实战案例，手把手教普通创作者用 Codex 做项目化内容管理 ​​​ ...展开</p></blockquote>
+<div style="margin:10px 0;">
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly8ii2qjcq60xj20m80m8ae1.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly8ii2qjcq60xj20m80m8ae1.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
+<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly8ii2qjdvsnbj20m80m8tbh.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly8ii2qjdvsnbj20m80m8tbh.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
+<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly8ii2qjf3dfwj20m80m8jts.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly8ii2qjf3dfwj20m80m8jts.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
+<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly8ii2qjjeca9j20m80m8ju5.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly8ii2qjjeca9j20m80m8ju5.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
+</div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 0</span></div>
+<div style="margin-top:8px;"><a href="https://weibo.com/5356792776231284/RnPrfq92A" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
+      <guid isPermaLink="true">https://weibo.com/5356792776231284/RnPrfq92A</guid>
+      <pubDate>Thu, 22 Oct 2026 12:13:05 +0800</pubDate>
+      <dc:creator>爱可可-爱生活</dc:creator>
+    </item>
     <item>
       <title>“三辞三不辞”是打工人判断去留的决策框架，核心是帮你分清“及时止损”还是“稳住积累”，避免因一时情绪做出后悔决定。 简评：这个框架把辞职决策拆成两个问题：你在失去什么，你能得到什么。健康、尊严、公平交...</title>
       <link>https://weibo.com/5356745503016520/RnOd0cEJy</link>
@@ -43,7 +94,7 @@
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iiau948rw3j21o02g6b29.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iiau948rw3j21o02g6b29.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
 <a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1iiau9491r7j21o02g61kx.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1iiau9491r7j21o02g61kx.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 4</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 1</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 4</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 2</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356740670652817/RnO5d2JPj" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356740670652817/RnO5d2JPj</guid>
       <pubDate>Thu, 22 Oct 2026 08:46:01 +0800</pubDate>
@@ -79,7 +130,7 @@
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iiat99uwi2j21o0280hdt.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iiat99uwi2j21o0280hdt.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1iiat99tporj21o0280nml.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1iiat99tporj21o0280nml.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 4</span><span> 赞 5</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 1</span><span style="margin-right:15px;"> 评论 4</span><span> 赞 5</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356732620738388/RnNSe365u" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356732620738388/RnNSe365u</guid>
       <pubDate>Thu, 22 Oct 2026 08:14:03 +0800</pubDate>
@@ -322,7 +373,7 @@
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly8iiao98hga6j20vd0g9gov.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly8iiao98hga6j20vd0g9gov.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片8" /></a>
 <a href="https://wx4.sinaimg.cn/orj960/5396ee05ly8iiao98ikz0j20vd0gvmzy.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly8iiao98ikz0j20vd0gvmzy.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片9" /></a>
 </div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 0</span></div>
+<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 0</span><span style="margin-right:15px;"> 评论 0</span><span> 赞 1</span></div>
 <div style="margin-top:8px;"><a href="https://weibo.com/5356690616877392/RnMMtsR7G" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5356690616877392/RnMMtsR7G</guid>
       <pubDate>Thu, 22 Oct 2026 05:27:08 +0800</pubDate>
@@ -1703,54 +1754,6 @@
 <div style="margin-top:8px;"><a href="https://weibo.com/5355799022928023/RnpAqchIb" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
       <guid isPermaLink="true">https://weibo.com/5355799022928023/RnpAqchIb</guid>
       <pubDate>Mon, 19 Oct 2026 18:24:15 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>面对AI写代码的冲击，微软携手卡耐基梅隆大学推出了PRAISE带教计划。该项目借鉴了临床护理的师徒带教机制，由资深工程师带教新手，并结合CMU的学术课程，将高校教育与工业实战直接打通。在微软看来，AI...</title>
-      <link>https://weibo.com/5355796248662728/RnpvWAlzq</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">面对AI写代码的冲击，微软携手卡耐基梅隆大学推出了PRAISE带教计划。该项目借鉴了临床护理的师徒带教机制，由资深工程师带教新手，并结合CMU的学术课程，将高校教育与工业实战直接打通。在微软看来，AI生成代码并不代表工程师无需理解底层逻辑，研发重心正加速转向架构设计与系统思维。带教模式不是回 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii7trhx4xmj218g0m8k08.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii7trhx4xmj218g0m8k08.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii7trhxdc8j20og0wk78i.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii7trhxdc8j20og0wk78i.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
-<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii7trhxeajj20og0wkn18.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii7trhxeajj20og0wkn18.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
-<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii7trhx9iqj20og0wkq6p.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii7trhx9iqj20og0wkq6p.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
-<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii7trhxcmkj20og0wk0ux.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii7trhxcmkj20og0wk0ux.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 9</span><span style="margin-right:15px;"> 评论 2</span><span> 赞 13</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5355796248662728/RnpvWAlzq" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5355796248662728/RnpvWAlzq</guid>
-      <pubDate>Mon, 19 Oct 2026 18:13:14 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>让智能体接管浏览器并不难，难的是如何穿透严格的风控与人机验证。开源项目 stealth-browser-mcp 基于 nodriver 和 Chrome 开发者工具协议（CDP），直接调动真实的 Ch...</title>
-      <link>https://weibo.com/5355658027468163/RnlV0vkOf</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">让智能体接管浏览器并不难，难的是如何穿透严格的风控与人机验证。开源项目 stealth-browser-mcp 基于 nodriver 和 Chrome 开发者工具协议（CDP），直接调动真实的 Chromium 系列浏览器，能有效应对 Cloudflare 等反爬检测。除了基础的网页导航与点击，它还开放了深层控制权，支持实时网络请求拦截、动 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii7dwd4gwmj21du0s2drv.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii7dwd4gwmj21du0s2drv.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 32</span><span style="margin-right:15px;"> 评论 3</span><span> 赞 20</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5355658027468163/RnlV0vkOf" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5355658027468163/RnlV0vkOf</guid>
-      <pubDate>Mon, 19 Oct 2026 09:04:00 +0800</pubDate>
-      <dc:creator>爱可可-爱生活</dc:creator>
-    </item>
-    <item>
-      <title>各大巨头描绘的AI Agent蓝图很丰满，现实却碰了壁。最近亚马逊、达美航空、摩根大通等多家平台陆续封堵AI代操作，Yelp也要求付费授权。网站既担心账户安全与风控误伤，更不愿丢掉真人浏览带来的广告收...</title>
-      <link>https://weibo.com/5355656980728788/RnlTk33AE</link>
-      <description><![CDATA[<div style="font-size:15px;line-height:1.6;margin-bottom:10px;">各大巨头描绘的AI Agent蓝图很丰满，现实却碰了壁。最近亚马逊、达美航空、摩根大通等多家平台陆续封堵AI代操作，Yelp也要求付费授权。网站既担心账户安全与风控误伤，更不愿丢掉真人浏览带来的广告收益。虽然Meta等厂商正转向零售商官方合作谋求出路，但日益严苛的反爬机制，不仅让智能体频频卡壳，未 ​​​ ...<span class="expand">展开</span></div>
-<div style="margin:10px 0;">
-<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii7dsmd9cxj20og0wkq4p.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii7dsmd9cxj20og0wkq4p.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片1" /></a>
-<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii7dsmdh3rj20og0wk41a.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii7dsmdh3rj20og0wk41a.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片2" /></a>
-<a href="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii7dsmdqy8j20og0wkq63.jpg" target="_blank"><img src="https://wx3.sinaimg.cn/orj960/5396ee05ly1ii7dsmdqy8j20og0wkq63.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片3" /></a>
-<a href="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii7dsmdhrbj20og0wk0vp.jpg" target="_blank"><img src="https://wx1.sinaimg.cn/orj960/5396ee05ly1ii7dsmdhrbj20og0wk0vp.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片4" /></a>
-<a href="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii7dsmzz1bj20og0wkgq5.jpg" target="_blank"><img src="https://wx4.sinaimg.cn/orj960/5396ee05ly1ii7dsmzz1bj20og0wkgq5.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片5" /></a>
-<a href="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii7dsmcxffj20og0wkmxt.jpg" target="_blank"><img src="https://wx2.sinaimg.cn/orj960/5396ee05ly1ii7dsmcxffj20og0wkmxt.jpg" style="max-width:200px;max-height:200px;margin:4px;border-radius:4px;" alt="图片6" /></a>
-</div>
-<div style="margin-top:10px;font-size:12px;color:#999;"><span style="margin-right:15px;"> 转发 3</span><span style="margin-right:15px;"> 评论 1</span><span> 赞 4</span></div>
-<div style="margin-top:8px;"><a href="https://weibo.com/5355656980728788/RnlTk33AE" target="_blank" style="color:#eb7350;text-decoration:none;font-size:13px;">查看原文</a></div>]]></description>
-      <guid isPermaLink="true">https://weibo.com/5355656980728788/RnlTk33AE</guid>
-      <pubDate>Mon, 19 Oct 2026 08:59:50 +0800</pubDate>
       <dc:creator>爱可可-爱生活</dc:creator>
     </item>
   </channel>
